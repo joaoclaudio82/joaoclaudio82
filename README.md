@@ -35,7 +35,7 @@ Sou professor e pesquisador com formação em Física (UFC) e Ciência de Dados.
 - 🧠 SIAS — Geração de sons de tráfego rodoviário com autoencoders.  
 - 💬 Análise de Sentimentos — Classificação de emoções em mensagens reais.  
 - 🏢 Observatório de Dados de Maracanaú — Arquitetura de governança de dados e visualização pública.  
-- ⚙️ Movias — Previsão de manutenção de frotas com séries temporais (LSTM/SARIMA).
+
 
 ---
 
