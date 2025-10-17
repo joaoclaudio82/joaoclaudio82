@@ -41,8 +41,8 @@ Sou professor e pesquisador com formação em Física (UFC) e Ciência de Dados.
 
 ## Hobbies e curiosidades
 
-- 🎹 Músico e produtor — entusiasta de sintetizadores vintage (Roland, Yamaha, Nord)  
-- 🏃 Corrida leve e tênis esportivos (Nimbus, Ultraboost, Adizero)  
+- 🎹 Músico e produtor — entusiasta de sintetizadores vintage (Roland, Yamaha)  
+- 🏃 Corrida leve
 - ☕📖 Café forte, teologia e ficção científica  
 - 🔭 Equilíbrio entre tradição e inovação, com os pés no chão
 
