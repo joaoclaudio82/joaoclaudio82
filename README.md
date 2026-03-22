@@ -41,16 +41,15 @@ Sou professor e pesquisador com formação em Física (UFC) e Ciência de Dados.
 
 ## Hobbies e curiosidades
 
-- 🎹 Músico e produtor — entusiasta de sintetizadores vintage (Roland, Yamaha)  
+- 🎹 Entusiasta de sintetizadores vintage (Roland, Yamaha)  
 - 🏃 Corrida leve
-- ☕📖 Café forte, teologia e ficção científica  
+- ☕📖 Café e ficção científica  
 - 🔭 Equilíbrio entre tradição e inovação, com os pés no chão
 
 ---
 
 ## Contato e redes
 
-- LinkedIn: adicione seu link aqui  
 - GitHub: [@joaoclaudio82](https://github.com/joaoclaudio82)
 
 ---
