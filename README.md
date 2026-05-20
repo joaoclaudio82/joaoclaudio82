@@ -1,7 +1,7 @@
 # João Cláudio Nunes Carvalho
 
 Professor de Física (IFCE) • IA, Ciência de Dados e Soluções com LLMs  
-Apaixonado por unir ciência, dados e inovação para resolver problemas reais.
+Gosto de unir ciência, dados e inovação para resolver problemas reais.
 
 > “Acredito que o futuro pertence a quem une tradição, propósito e tecnologia.”
 
@@ -12,7 +12,7 @@ Apaixonado por unir ciência, dados e inovação para resolver problemas reais.
 Sou professor e pesquisador com formação em Física (UFC) e Ciência de Dados. Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e desenvolvimento tecnológico — transformando modelos matemáticos e físicos em soluções inteligentes aplicadas.
 
 - Áreas: IA aplicada, Ciência de Dados, MLOps, LLMs, Engenharia de Prompts
-- Interesses: Governança de dados públicos, explicabilidade de modelos, soluções educacionais e industriais
+- Interesses: Governança de dados públicos, explicabilidade de modelos, soluções industriais
 
 ---
 
