@@ -1,11 +1,7 @@
 # João Cláudio Nunes Carvalho
 
-Professor de Física (IFCE) • IA, Ciência de Dados e Soluções com LLMs  
+• IA, Ciência de Dados e Soluções com LLMs  
 Gosto de unir ciência, dados e inovação para resolver problemas reais.
-
-> “Acredito que o futuro pertence a quem une tradição, propósito e tecnologia.”
-
----
 
 ## Sobre mim
 
