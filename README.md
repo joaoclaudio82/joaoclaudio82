@@ -1,62 +1,53 @@
 # João Cláudio Nunes Carvalho
 
-• IA, Ciência de Dados e Soluções com LLMs  
-Gosto de unir ciência, dados e inovação para resolver problemas reais.
+**Professor de Física (IFCE) • IA Aplicada, Ciência de Dados e Soluções com LLMs**
+Uno ciência, dados e inovação para resolver problemas reais.
 
-## Sobre mim
-
-Sou professor e pesquisador com formação em Física (UFC) e Ciência de Dados. Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e desenvolvimento tecnológico — transformando modelos matemáticos e físicos em soluções inteligentes aplicadas.
-
-- Áreas: IA aplicada, Ciência de Dados, MLOps, LLMs, Engenharia de Prompts
-- Interesses: Governança de dados públicos, explicabilidade de modelos, soluções industriais
+> "Acredito que o futuro pertence a quem une tradição, propósito e tecnologia."
 
 ---
 
-## Principais habilidades
+## Sobre mim
 
-- Linguagens: Python, R, JavaScript (Node.js, TypeScript), SQL, DAX  
-- Frameworks & Ferramentas: Flask, FastAPI, NestJS, Next.js, Convex, Gradio, Power BI, AWS (Lambda, S3, Lightsail), Docker  
-- IA & ML: PyTorch, scikit-learn, Transformers (BERT, GPT), RNNs (LSTM, GRU), XGBoost, LIME/Explainable AI, Autoencoders  
-- Infra & DevOps: Docker Compose, GitHub Actions, PostgreSQL, ElasticSearch  
-- Cloud e Orquestração: AWS, Google Cloud, Convex, Mastra AI, Chef by Convex  
-- Outros: PowerApps, AppSheet, FlutterFlow, Power BI Avançado (DAX e visualização)
+Professor e pesquisador com formação em Física (UFC) e Ciência de Dados (MBA USP).
+Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e criação tecnológica, transformando modelos matemáticos e físicos em soluções inteligentes aplicadas.
+
+- **Foco:** IA aplicada, LLMs, servidores MCP, explicabilidade de modelos
+- **Domínios:** governança de dados públicos, soluções industriais, visão computacional
+
+---
+
+## Stack principal
+
+- **Linguagens:** Python, R, JavaScript/TypeScript, SQL
+- **IA & ML:** PyTorch, scikit-learn, Transformers (BERT/GPT), XGBoost, Explainable AI (LIME), LLMs e MCP
+- **Back-end & APIs:** Flask, FastAPI, NestJS, Docker, PostgreSQL
+- **Cloud & Dados:** AWS (Lambda, S3, Lightsail), Power BI, Gradio
 
 ---
 
 ## Projetos em destaque
 
-- 🧩 MetalIA — Modelo de IA industrial com sensores, FEM e predição de falhas em CNCs.  
-- 🏛️ Sistema ETP/TR Automático — Geração de Estudos Técnicos Preliminares e Termos de Referência com LLMs e prompts estruturados (Lei 14.133/21).  
-- 📊 Simulador FUNDEB — App em Gradio para simular VAAF, VAAT e VAAR por município.  
-- 🧠 SIAS — Geração de sons de tráfego rodoviário com autoencoders.  
-- 💬 Análise de Sentimentos — Classificação de emoções em mensagens reais.  
-- 🏢 Observatório de Dados de Maracanaú — Arquitetura de governança de dados e visualização pública.  
-
+- 🧾 **rhia-jc** — Leitor de currículos em Python (PDF, DOCX e imagem) com extração determinística, esquema validado e testes de regressão.
+- 🦐 **contagemcamarao** — Contagem automática de larvas de camarão por visão computacional.
+- 💬 **analisentimentos** — Servidor MCP para classificação de emoções (GoEmotions, 28 categorias).
+- 📊 **simuladorfundeb2** — Simulador de ponderações do FUNDEB (VAAF, VAAT, VAAR) com back-end FastAPI.
+- 🧩 **hexagonal** — Demonstração de Arquitetura Hexagonal (Ports & Adapters) em Python.
 
 ---
 
-## Hobbies e curiosidades
+## Curiosidades
 
-- 🎹 Entusiasta de sintetizadores vintage (Roland, Yamaha)  
-- 🏃 Corrida leve
-- ☕📖 Café e ficção científica  
-- 🔭 Equilíbrio entre tradição e inovação, com os pés no chão
+🎹 Sintetizadores vintage (Roland, Yamaha) • 🏃 Corrida leve • ☕📖 Café e ficção científica
 
 ---
 
-## Contato e redes
+## Contato
 
 - GitHub: [@joaoclaudio82](https://github.com/joaoclaudio82)
+- Medium: [joaoclaudionc.medium.com](https://joaoclaudionc.medium.com)
 
 ---
 
-## Estatísticas (opcional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoclaudio82&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudio82&layout=compact&theme=default)
-
-<!-- Dicas:
-1) Para usar este README como perfil, crie o repositório público "joaoclaudio82/joaoclaudio82" e coloque este arquivo como README.md.
-2) Substitua o link do LinkedIn acima pelo seu URL.
-3) Se quiser, inclua links para os repositórios dos projetos em destaque.
--->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoclaudio82&show_icons=true&theme=default)](https://github.com/joaoclaudio82)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudio82&layout=compact&theme=default)](https://github.com/joaoclaudio82)
