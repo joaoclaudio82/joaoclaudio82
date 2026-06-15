@@ -9,7 +9,7 @@ Uno ciência, dados e inovação para resolver problemas reais.
 
 ## Sobre mim
 
-Professor e pesquisador com formação em Física (UFC) e Ciência de Dados (MBA USP).
+Professor e pesquisador com doutorado em Física (UFC) e Ciência de Dados (MBA USP).
 Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e criação tecnológica, transformando modelos matemáticos e físicos em soluções inteligentes aplicadas.
 
 - **Foco:** IA aplicada, LLMs, servidores MCP, explicabilidade de modelos
