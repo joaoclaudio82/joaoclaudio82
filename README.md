@@ -49,5 +49,4 @@ Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e criaçã
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoclaudio82&show_icons=true&theme=default)](https://github.com/joaoclaudio82)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudio82&layout=compact&theme=default)](https://github.com/joaoclaudio82)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joaoclaudio82)](https://github.com/stats-organization/github-stats-extended)
