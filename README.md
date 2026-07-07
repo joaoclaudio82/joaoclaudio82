@@ -49,4 +49,3 @@ Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e criaçã
 
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bessavagner)](https://github.com/stats-organization/github-stats-extended)
