@@ -52,5 +52,5 @@ Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e criaçã
 ## GitHub Stats
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joaoclaudio82)](https://github.com/stats-organization/github-stats-extended)
+(https://github-stats-extended.vercel.app/api?username=joaoclaudio82)](https://github.com/stats-organization/github-stats-extended)
 </div>
