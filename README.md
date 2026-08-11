@@ -52,6 +52,5 @@ Atuo na criação de ecossistemas de IA que conectam pesquisa, ensino e criaçã
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended-nayetdet.vercel.app/api/top-langs/?username=joaoclaudio82&theme=github_dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="Most Used Languages" />
-  <img src="https://github-stats-extended-nayetdet.vercel.app/api?username=joaoclaudio82&theme=github_dark&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joaoclaudio82)](https://github.com/stats-organization/github-stats-extended)
 </div>
