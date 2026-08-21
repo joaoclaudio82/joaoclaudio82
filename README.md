@@ -3,7 +3,6 @@
  IA Aplicada, Ciência de Dados e Soluções com LLMs**
 Uno ciência, dados e inovação para resolver problemas reais.
 
-> "Acredito que o futuro pertence a quem une tradição, propósito e tecnologia."
 
 ---
 
