@@ -2,7 +2,7 @@
 
 **Inteligência Artificial Aplicada | Ciência de Dados | Machine Learning | Desenvolvimento de Software**
 
-Desenvolvo soluções que conectam pesquisa científica, dados e software para resolver problemas reais em saúde, educação, indústria e gestão pública.
+Desenvolvo soluções que conectam pesquisa científica, dados e software para resolver problemas reais em saúde, educação, indústria, gestão pública, etc.
 
 ---
 
