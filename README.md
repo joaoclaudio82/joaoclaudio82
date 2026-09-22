@@ -35,7 +35,6 @@ Tenho interesse especial em construir soluções úteis, explicáveis e bem estr
 | **CCLI — IA na educação** | Modelagem do risco de evasão estudantil, com análises por aluno, matrícula e curso. |
 | **RHIA / rhia-jc** | Processamento de currículos em PDF, DOCX e imagens, com extração estruturada, validação de dados e testes de regressão. |
 | **fraudeimagens** | Desenvolvimento de métodos para investigar inconsistências e possíveis adulterações em imagens e documentos. |
-| **contagemcamarao** | Contagem automática de larvas de camarão por visão computacional. |
 | **ResidUômetro Fortaleza** | Aplicação em R Shiny e PostgreSQL para acompanhar indicadores de resíduos urbanos e suas séries históricas. |
 | **analisentimentos** | Servidor MCP para classificação de emoções com GoEmotions, contemplando 28 categorias. |
 | **simuladorfundeb2** | Simulação de ponderações do FUNDEB, envolvendo VAAF, VAAT e VAAR, com API em FastAPI. |
