@@ -1,10 +1,7 @@
 # João Cláudio Nunes Carvalho
 
-**Inteligência Artificial Aplicada | Ciência de Dados | Machine Learning | Desenvolvimento de Software**
+**Inteligência Artificial Aplicada | Ciência de Dados | Machine Learning |**
 
-soluções que conectam pesquisa científica, dados e software para resolver problemas reais em saúde, educação, indústria, gestão pública, etc
-
----
 
 ## Sobre mim
 
