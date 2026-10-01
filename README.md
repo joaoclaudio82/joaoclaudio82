@@ -3,7 +3,7 @@
 **Inteligência Artificial Aplicada | Ciência de Dados | Machine Learning |**
 
 
-## Sobre mim
+## Sobre 
 
 Sou professor e pesquisador do **Instituto Federal do Ceará (IFCE)**, com doutorado e pós-doutorado em Física pela **UFC**, formação em Ciência de Dados e **MBA em Data Science & Analytics pela USP**.
 
